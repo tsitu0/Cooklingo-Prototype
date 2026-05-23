@@ -1,0 +1,342 @@
+[
+  {
+    "id": "pasta_001",
+    "title": "Creamy Garlic Pasta",
+    "description": "A simple creamy pasta dish with garlic, parmesan, and butter.",
+    "difficulty": "Beginner",
+    "estimatedTime": 30,
+    "xpReward": 50,
+    "imageUrl": "/images/creamy-garlic-pasta.jpg",
+    "skills": ["boiling", "sauce making", "seasoning"],
+    "ingredients": ["pasta", "garlic", "heavy cream", "parmesan", "butter", "salt", "pepper"],
+    "steps": [
+      "Boil pasta in salted water until al dente.",
+      "Sauté minced garlic in butter until fragrant.",
+      "Stir in cream and parmesan to make the sauce.",
+      "Toss pasta with sauce, season, and serve."
+    ]
+  },
+  {
+    "id": "stirfry_002",
+    "title": "Chicken Veggie Stir-Fry",
+    "description": "Quick weeknight stir-fry with tender chicken and crisp vegetables in a savory sauce.",
+    "difficulty": "Beginner",
+    "estimatedTime": 25,
+    "xpReward": 45,
+    "imageUrl": "/images/chicken-veggie-stir-fry.jpg",
+    "skills": ["knife work", "high-heat cooking", "sauce making"],
+    "ingredients": ["chicken breast", "bell pepper", "broccoli", "soy sauce", "garlic", "ginger", "rice"],
+    "steps": [
+      "Slice chicken and vegetables into even pieces.",
+      "Stir-fry chicken until cooked through, then set aside.",
+      "Cook vegetables over high heat until crisp-tender.",
+      "Return chicken, add sauce, and serve over rice."
+    ]
+  },
+  {
+    "id": "salad_003",
+    "title": "Classic Caesar Salad",
+    "description": "Crisp romaine with homemade-style dressing, croutons, and parmesan.",
+    "difficulty": "Beginner",
+    "estimatedTime": 15,
+    "xpReward": 30,
+    "imageUrl": "/images/classic-caesar-salad.jpg",
+    "skills": ["emulsifying", "knife work", "plating"],
+    "ingredients": ["romaine lettuce", "parmesan", "croutons", "lemon", "garlic", "olive oil", "anchovy paste"],
+    "steps": [
+      "Wash and chop romaine into bite-sized pieces.",
+      "Whisk dressing ingredients until creamy.",
+      "Toss lettuce with dressing and croutons.",
+      "Top with shaved parmesan and serve chilled."
+    ]
+  },
+  {
+    "id": "tacos_004",
+    "title": "Beef Street Tacos",
+    "description": "Seasoned ground beef tacos with onion, cilantro, and lime on warm corn tortillas.",
+    "difficulty": "Beginner",
+    "estimatedTime": 20,
+    "xpReward": 40,
+    "imageUrl": "/images/beef-street-tacos.jpg",
+    "skills": ["seasoning", "pan frying", "assembly"],
+    "ingredients": ["ground beef", "corn tortillas", "onion", "cilantro", "lime", "cumin", "chili powder"],
+    "steps": [
+      "Brown ground beef with spices until fully cooked.",
+      "Warm tortillas in a dry pan.",
+      "Fill tortillas with beef and diced onion.",
+      "Garnish with cilantro and a squeeze of lime."
+    ]
+  },
+  {
+    "id": "soup_005",
+    "title": "Tomato Basil Soup",
+    "description": "Comforting blended tomato soup finished with fresh basil and cream.",
+    "difficulty": "Beginner",
+    "estimatedTime": 35,
+    "xpReward": 55,
+    "imageUrl": "/images/tomato-basil-soup.jpg",
+    "skills": ["sautéing", "blending", "seasoning"],
+    "ingredients": ["canned tomatoes", "onion", "garlic", "basil", "vegetable broth", "heavy cream", "olive oil"],
+    "steps": [
+      "Sauté onion and garlic until soft.",
+      "Simmer tomatoes and broth for 20 minutes.",
+      "Blend until smooth and stir in cream.",
+      "Finish with fresh basil before serving."
+    ]
+  },
+  {
+    "id": "eggs_006",
+    "title": "Fluffy Scrambled Eggs",
+    "description": "Soft, buttery scrambled eggs perfect for breakfast or a light meal.",
+    "difficulty": "Beginner",
+    "estimatedTime": 10,
+    "xpReward": 25,
+    "imageUrl": "/images/fluffy-scrambled-eggs.jpg",
+    "skills": ["egg cookery", "heat control", "seasoning"],
+    "ingredients": ["eggs", "butter", "milk", "salt", "pepper", "chives"],
+    "steps": [
+      "Whisk eggs with milk, salt, and pepper.",
+      "Melt butter in a pan over low-medium heat.",
+      "Cook eggs slowly, stirring until just set.",
+      "Garnish with chives and serve immediately."
+    ]
+  },
+  {
+    "id": "rice_007",
+    "title": "One-Pan Lemon Herb Rice",
+    "description": "Fragrant rice cooked with lemon, parsley, and garlic in a single pan.",
+    "difficulty": "Beginner",
+    "estimatedTime": 28,
+    "xpReward": 45,
+    "imageUrl": "/images/lemon-herb-rice.jpg",
+    "skills": ["simmering", "seasoning", "timing"],
+    "ingredients": ["jasmine rice", "lemon", "garlic", "parsley", "vegetable broth", "olive oil"],
+    "steps": [
+      "Toast rice briefly with garlic in olive oil.",
+      "Add broth and lemon zest, then cover and simmer.",
+      "Fluff rice and fold in parsley and lemon juice.",
+      "Rest for 5 minutes before serving."
+    ]
+  },
+  {
+    "id": "fish_008",
+    "title": "Pan-Seared Salmon",
+    "description": "Crispy-skinned salmon fillet with a simple lemon butter finish.",
+    "difficulty": "Intermediate",
+    "estimatedTime": 22,
+    "xpReward": 65,
+    "imageUrl": "/images/pan-seared-salmon.jpg",
+    "skills": ["pan searing", "heat control", "sauce making"],
+    "ingredients": ["salmon fillet", "butter", "lemon", "garlic", "dill", "salt", "pepper"],
+    "steps": [
+      "Pat salmon dry and season both sides.",
+      "Sear skin-side down until crisp and golden.",
+      "Flip and cook to desired doneness.",
+      "Spoon lemon butter over salmon and serve."
+    ]
+  },
+  {
+    "id": "curry_009",
+    "title": "Coconut Chickpea Curry",
+    "description": "Plant-based curry with chickpeas, spinach, and warming spices in coconut milk.",
+    "difficulty": "Intermediate",
+    "estimatedTime": 40,
+    "xpReward": 70,
+    "imageUrl": "/images/coconut-chickpea-curry.jpg",
+    "skills": ["spice balancing", "simmering", "knife work"],
+    "ingredients": ["chickpeas", "coconut milk", "spinach", "onion", "garlic", "curry powder", "rice"],
+    "steps": [
+      "Sauté onion, garlic, and curry powder until aromatic.",
+      "Add chickpeas and coconut milk, then simmer.",
+      "Stir in spinach until wilted.",
+      "Serve over steamed rice."
+    ]
+  },
+  {
+    "id": "burger_010",
+    "title": "Classic Cheeseburger",
+    "description": "Juicy beef patty with melted cheddar on a toasted bun and classic toppings.",
+    "difficulty": "Beginner",
+    "estimatedTime": 25,
+    "xpReward": 50,
+    "imageUrl": "/images/classic-cheeseburger.jpg",
+    "skills": ["grilling", "assembly", "seasoning"],
+    "ingredients": ["ground beef", "burger buns", "cheddar", "lettuce", "tomato", "onion", "ketchup"],
+    "steps": [
+      "Form and season beef patties.",
+      "Cook patties to desired doneness and melt cheese on top.",
+      "Toast buns lightly.",
+      "Assemble burger with toppings and serve."
+    ]
+  },
+  {
+    "id": "pizza_011",
+    "title": "Margherita Flatbread Pizza",
+    "description": "Quick flatbread pizza with tomato, mozzarella, and fresh basil.",
+    "difficulty": "Beginner",
+    "estimatedTime": 18,
+    "xpReward": 40,
+    "imageUrl": "/images/margherita-flatbread-pizza.jpg",
+    "skills": ["baking", "assembly", "timing"],
+    "ingredients": ["flatbread", "tomato sauce", "mozzarella", "basil", "olive oil", "salt"],
+    "steps": [
+      "Spread tomato sauce evenly over flatbread.",
+      "Top with mozzarella and a drizzle of olive oil.",
+      "Bake until cheese is bubbly and edges are crisp.",
+      "Add fresh basil before slicing."
+    ]
+  },
+  {
+    "id": "noodles_012",
+    "title": "Sesame Garlic Noodles",
+    "description": "Savory Asian-inspired noodles tossed in a sesame soy garlic sauce.",
+    "difficulty": "Beginner",
+    "estimatedTime": 20,
+    "xpReward": 45,
+    "imageUrl": "/images/sesame-garlic-noodles.jpg",
+    "skills": ["boiling", "sauce making", "tossing"],
+    "ingredients": ["egg noodles", "soy sauce", "sesame oil", "garlic", "green onion", "sesame seeds"],
+    "steps": [
+      "Cook noodles according to package directions.",
+      "Whisk soy sauce, sesame oil, and minced garlic.",
+      "Toss hot noodles with sauce until coated.",
+      "Garnish with green onion and sesame seeds."
+    ]
+  },
+  {
+    "id": "chicken_013",
+    "title": "Honey Mustard Baked Chicken",
+    "description": "Oven-baked chicken thighs glazed with sweet and tangy honey mustard.",
+    "difficulty": "Intermediate",
+    "estimatedTime": 45,
+    "xpReward": 75,
+    "imageUrl": "/images/honey-mustard-baked-chicken.jpg",
+    "skills": ["baking", "marinating", "timing"],
+    "ingredients": ["chicken thighs", "honey", "dijon mustard", "garlic", "olive oil", "paprika"],
+    "steps": [
+      "Mix honey, mustard, garlic, and spices into a glaze.",
+      "Coat chicken thighs and arrange on a baking sheet.",
+      "Bake until internal temperature is safe and skin is golden.",
+      "Rest briefly and serve with pan juices."
+    ]
+  },
+  {
+    "id": "quinoa_014",
+    "title": "Mediterranean Quinoa Bowl",
+    "description": "Protein-packed bowl with quinoa, cucumber, tomato, feta, and lemon dressing.",
+    "difficulty": "Beginner",
+    "estimatedTime": 30,
+    "xpReward": 55,
+    "imageUrl": "/images/mediterranean-quinoa-bowl.jpg",
+    "skills": ["grain cooking", "knife work", "dressing"],
+    "ingredients": ["quinoa", "cucumber", "cherry tomatoes", "feta", "olive oil", "lemon", "oregano"],
+    "steps": [
+      "Cook quinoa and let it cool slightly.",
+      "Dice vegetables and crumble feta.",
+      "Whisk lemon olive oil dressing.",
+      "Combine all ingredients and toss to serve."
+    ]
+  },
+  {
+    "id": "pancakes_015",
+    "title": "Blueberry Buttermilk Pancakes",
+    "description": "Fluffy pancakes studded with blueberries and served with maple syrup.",
+    "difficulty": "Beginner",
+    "estimatedTime": 25,
+    "xpReward": 45,
+    "imageUrl": "/images/blueberry-buttermilk-pancakes.jpg",
+    "skills": ["batter mixing", "griddle cooking", "timing"],
+    "ingredients": ["flour", "buttermilk", "eggs", "blueberries", "baking powder", "maple syrup", "butter"],
+    "steps": [
+      "Mix dry and wet ingredients until just combined.",
+      "Fold in blueberries gently.",
+      "Cook pancakes on a buttered griddle until golden.",
+      "Serve warm with maple syrup."
+    ]
+  },
+  {
+    "id": "steak_016",
+    "title": "Garlic Butter Ribeye",
+    "description": "Restaurant-style ribeye finished with garlic herb butter and a proper rest.",
+    "difficulty": "Advanced",
+    "estimatedTime": 35,
+    "xpReward": 100,
+    "imageUrl": "/images/garlic-butter-ribeye.jpg",
+    "skills": ["pan searing", "basting", "resting"],
+    "ingredients": ["ribeye steak", "butter", "garlic", "rosemary", "thyme", "salt", "pepper"],
+    "steps": [
+      "Bring steak to room temperature and season generously.",
+      "Sear in a hot pan to develop a deep crust.",
+      "Baste with garlic herb butter while finishing.",
+      "Rest, slice, and serve with pan butter."
+    ]
+  },
+  {
+    "id": "ramen_017",
+    "title": "Quick Miso Ramen Bowl",
+    "description": "Fast homemade-style ramen with miso broth, noodles, egg, and greens.",
+    "difficulty": "Intermediate",
+    "estimatedTime": 30,
+    "xpReward": 65,
+    "imageUrl": "/images/quick-miso-ramen-bowl.jpg",
+    "skills": ["broth building", "boiling", "assembly"],
+    "ingredients": ["ramen noodles", "miso paste", "vegetable broth", "soft-boiled egg", "bok choy", "green onion", "soy sauce"],
+    "steps": [
+      "Simmer broth with miso and soy sauce.",
+      "Cook noodles separately and drain.",
+      "Blanch bok choy in the broth.",
+      "Assemble bowls with noodles, broth, egg, and green onion."
+    ]
+  },
+  {
+    "id": "lasagna_018",
+    "title": "Weeknight Spinach Lasagna",
+    "description": "Layered lasagna with ricotta, spinach, marinara, and melted mozzarella.",
+    "difficulty": "Intermediate",
+    "estimatedTime": 55,
+    "xpReward": 85,
+    "imageUrl": "/images/weeknight-spinach-lasagna.jpg",
+    "skills": ["layering", "baking", "timing"],
+    "ingredients": ["lasagna noodles", "ricotta", "spinach", "marinara sauce", "mozzarella", "parmesan", "garlic"],
+    "steps": [
+      "Mix ricotta with spinach, garlic, and seasoning.",
+      "Layer noodles, sauce, ricotta mixture, and cheese.",
+      "Repeat layers until the dish is full.",
+      "Bake covered, then uncover to brown the top."
+    ]
+  },
+  {
+    "id": "shrimp_019",
+    "title": "Garlic Lemon Shrimp Skewers",
+    "description": "Grilled shrimp skewers marinated in garlic, lemon, and herbs.",
+    "difficulty": "Intermediate",
+    "estimatedTime": 28,
+    "xpReward": 70,
+    "imageUrl": "/images/garlic-lemon-shrimp-skewers.jpg",
+    "skills": ["marinating", "grilling", "skewering"],
+    "ingredients": ["shrimp", "lemon", "garlic", "parsley", "olive oil", "paprika", "salt"],
+    "steps": [
+      "Marinate shrimp in lemon, garlic, and herbs.",
+      "Thread shrimp onto skewers evenly.",
+      "Grill 2-3 minutes per side until opaque.",
+      "Serve with extra lemon and herbs."
+    ]
+  },
+  {
+    "id": "brownies_020",
+    "title": "Fudgy Chocolate Brownies",
+    "description": "Rich, dense brownies with a crackly top and deep chocolate flavor.",
+    "difficulty": "Beginner",
+    "estimatedTime": 50,
+    "xpReward": 60,
+    "imageUrl": "/images/fudgy-chocolate-brownies.jpg",
+    "skills": ["baking", "mixing", "timing"],
+    "ingredients": ["butter", "dark chocolate", "eggs", "sugar", "flour", "cocoa powder", "vanilla"],
+    "steps": [
+      "Melt butter and chocolate together.",
+      "Whisk in eggs, sugar, and vanilla.",
+      "Fold in flour and cocoa until just combined.",
+      "Bake until set at the edges but fudgy in the center."
+    ]
+  }
+]
